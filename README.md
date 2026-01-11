@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ***Credit Card Fraud Detection***
 
 This project implements a machine learning model to identify fraudulent credit card transactions. The primary focus of this project was navigating the challenges of highly imbalanced data and ensuring high recall to catch as many fraudulent cases as possible.
@@ -48,7 +47,3 @@ Cost-Sensitive Learning: Adjusting class weights is an effective way to handle e
 
 Language: Python 3.11
 Libraries: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-=======
-# credit_card_fraud_detection
-Credit Card Fraud Detection
->>>>>>> 84339642f68d97c4a3e4d237204cdad263da4368
